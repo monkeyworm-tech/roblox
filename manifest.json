@@ -1,0 +1,23 @@
+{
+  "short_name": "Roblox",
+  "name": "Roblox",
+  "icons": [
+    {
+      "src": "https://www.nocookie.net/logopedia/images/2/28/400x400ia-75.webp/revision/latest?cb=20260412004126",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.nocookie.net/logopedia/images/2/28/400x400ia-75.webp/revision/latest?cb=20260412004126",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#16181e",
+  "theme_color": "#16181e",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
